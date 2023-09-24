@@ -1,0 +1,35 @@
+body {
+    background-color: #520000;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+
+.card{
+    background-color: white;
+    width: 85%;
+    min-height: 600px;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+ul li{
+    list-style: circle;
+    font-weight: bold;
+}
+
+.ingredientes{
+    font-size: 12px;
+}
+
+.preco{
+    font-size: 13px;
+    color: #520000;
+    font-weight: bold;
+}
